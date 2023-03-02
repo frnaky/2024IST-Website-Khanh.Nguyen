@@ -1,0 +1,18 @@
+DIV {
+border: 1px solid #ffffff;
+}
+
+#header {
+height: 100px;
+width: 800px;
+margin-right: auto;
+margin-left: auto;
+bacground: url(images/banner.png) no-repeat;
+color:red;
+}
+
+#MainContext {
+width: 800px;
+margin-right: auto;
+margin-left: auto;
+}
