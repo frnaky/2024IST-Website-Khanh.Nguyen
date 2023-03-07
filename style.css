@@ -2,12 +2,12 @@ DIV {
 border: 1px solid #ffffff;
 }
 
-#header {
+#Header {
 height: 100px;
 width: 800px;
 margin-right: auto;
 margin-left: auto;
-bacground: url(images/banner.png) no-repeat;
+background: url(images/banner.png) no-repeat;
 color:red;
 }
 
